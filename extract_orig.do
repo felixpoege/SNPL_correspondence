@@ -1,8 +1,8 @@
 /*
-	@project NPL_concordance
+	@project SNPL_concordence
 	@author Felix Poege (felix.poege@ip.mpg.de)
 	
-	Extract a concordance between patent classes and Web of Science
+	Extract a concordence between patent classes and Web of Science
 	science classes / OECD subject areas.
 	Replication file - cannot be executed.
 	
