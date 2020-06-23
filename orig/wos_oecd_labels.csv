@@ -1,0 +1,252 @@
+oecd_main,oecd_code,oecd_namefull,oecd_nameshort,wos_code,wos_namefull,wos_nameshort
+1,1.03,Physical sciences,sci:physics,aa,Acoustics,acoustics
+2,2.02,"Electrical engineering, electronic engineering, information engineering",eng:electr,ac,Automation & Control Systems,autom & ctrl syst
+4,4.02,Animal and dairy science,agr:animal,ad,"Agriculture, Dairy & Animal Science","agric, dairy & anim"
+4,4.05,Other agricultural sciences,agr:other,ae,Agricultural Engineering,agric engineer
+4,4.05,Other agricultural sciences,agr:other,af,Agricultural Economics & Policy,agric econ & pol
+4,4.01,"Agriculture, forestry, and fisheries",agr:agro,ah,"Agriculture, Multidisciplinary","agric, multidisc"
+2,2.03,Mechanical engineering,eng:mechan,ai,"Engineering, Aerospace","eng, aerospace"
+4,4.01,"Agriculture, forestry, and fisheries",agr:agro,am,Agronomy,agronomy
+3,3.02,Clinical medicine,med:clin,aq,Allergy,allergy
+3,3.01,Basic medicine,med:basic,ay,Anatomy & Morphology,anatomy & morphol
+3,3.02,Clinical medicine,med:clin,az,Andrology,andrology
+3,3.02,Clinical medicine,med:clin,ba,Anesthesiology,anesthesiology
+1,1.06,Biological sciences,sci:biol,bd,Biodiversity Conservation,biodiv conservat
+5,5.04,Sociology,soc:sociol,bf,Anthropology,anthropology
+6,6.01,History and archaeology,hum:history,bi,Archaeology,archaeology
+6,6.04,"Art (arts, history of arts, performing arts, music)",hum:arts,bk,Architecture,architecture
+5,5.07,Social and economic geography,soc:geogr,bm,Area Studies,area studies
+6,6.04,"Art (arts, history of arts, performing arts, music)",hum:arts,bp,Art,art
+6,6.05,Other humanities,hum:other,bq,"Humanities, Multidisciplinary","humanities, mult"
+1,1.03,Physical sciences,sci:physics,bu,Astronomy & Astrophysics,astron & astroph
+5,5.01,Psychology,soc:psychol,bv,"Psychology, Biological","psychol, biolog"
+9,9,Unmatched Subject Codes,nnn,cl,Audiology & Speech-Language Pathology,audiol & sp pathol
+5,5.01,Psychology,soc:psychol,cn,Behavioral Sciences,behavioral sc
+1,1.06,Biological sciences,sci:biol,co,Biochemical Research Methods,biochem res meth
+1,1.06,Biological sciences,sci:biol,cq,Biochemistry & Molecular Biology,biochem & mol biol
+9,9,Unmatched Subject Codes,nnn,ct,Cell & Tissue Engineering,cell & tissue eng
+1,1.06,Biological sciences,sci:biol,cu,Biology,biology
+1,1.06,Biological sciences,sci:biol,da,Biophysics,biophysics
+2,2.08,Environmental biotechnology,eng:biotech,db,Biotechnology & Applied Microbiology,biotech & appl mic
+1,1.06,Biological sciences,sci:biol,de,Plant Sciences,plant sciences
+5,5.02,Economics and business,soc:econ,di,Business,business
+5,5.02,Economics and business,soc:econ,dk,"Business, Finance","business, finan"
+3,3.02,Clinical medicine,med:clin,dm,Oncology,oncology
+9,9,Unmatched Subject Codes,nnn,dq,Cardiac & Cardiovascular Systems,card & cardiov sys
+1,1.06,Biological sciences,sci:biol,dr,Cell Biology,cell biology
+3,3.02,Clinical medicine,med:clin,ds,Critical Care Medicine,crit care medic
+2,2.03,Mechanical engineering,eng:mechan,dt,Thermodynamics,thermodynamics
+1,1.04,Chemical sciences,sci:chem,dw,"Chemistry, Applied","chem, applied"
+3,3.01,Basic medicine,med:basic,dx,"Chemistry, Medicinal","chem, medicinal"
+1,1.04,Chemical sciences,sci:chem,dy,"Chemistry, Multidisciplinary","chem, multidisc"
+1,1.04,Chemical sciences,sci:chem,ea,"Chemistry, Analytical","chem, analytical"
+1,1.04,Chemical sciences,sci:chem,ec,"Chemistry, Inorganic & Nuclear","chem, inorg & nucl"
+1,1.04,Chemical sciences,sci:chem,ee,"Chemistry, Organic","chem, organic"
+1,1.04,Chemical sciences,sci:chem,ei,"Chemistry, Physical","chem, physical"
+9,9,Unmatched Subject Codes,nnn,en,Cultural Studies,culture studies
+6,6.02,Languages and literature,hum:language,eo,Classics,classics
+1,1.02,Computer and information sciences,sci:infosci,ep,"Computer Science, Artificial Intelligence","comp sc, ai"
+3,3.01,Basic medicine,med:basic,eq,"Psychology, Clinical","psychol, clinic"
+1,1.02,Computer and information sciences,sci:infosci,er,"Computer Science, Cybernetics","comp sc, cybern"
+2,2.02,"Electrical engineering, electronic engineering, information engineering",eng:electr,es,"Computer Science, Hardware & Architecture","comp sc, hardw & ar"
+1,1.02,Computer and information sciences,sci:infosci,et,"Computer Science, Information Systems","comp sc, info sys"
+2,2.02,"Electrical engineering, electronic engineering, information engineering",eng:electr,eu,Communication,communication
+1,1.02,Computer and information sciences,sci:infosci,ev,"Computer Science, Interdisciplinary Applications","comp sc, int appl"
+1,1.02,Computer and information sciences,sci:infosci,ew,"Computer Science, Software Engineering","comp sc, softw en"
+1,1.02,Computer and information sciences,sci:infosci,ex,"Computer Science, Theory & Methods","comp sc, th & meth"
+2,2.01,Civil engineering,eng:civil,fa,Construction & Building Technology,constr & buil tech
+5,5.05,Law,soc:law,fe,Criminology & Penology,criminol & penol
+3,3.02,Clinical medicine,med:clin,ff,Emergency Medicine,emergency med
+1,1.04,Chemical sciences,sci:chem,fi,Crystallography,crystallography
+6,6.04,"Art (arts, history of arts, performing arts, music)",hum:arts,fs,Dance,dance
+5,5.04,Sociology,soc:sociol,fu,Demography,demography
+3,3.02,Clinical medicine,med:clin,fy,"Dentistry, Oral Surgery & Medicine","dent, oral surg & m"
+3,3.02,Clinical medicine,med:clin,ga,Dermatology,dermatology
+1,1.05,Earth and related environmental sciences,sci:environ,gc,Geochemistry & Geophysics,geochem & geophys
+3,3.03,Health sciences,med:health,gm,Substance Abuse,substance abuse
+1,1.06,Biological sciences,sci:biol,gu,Ecology,ecology
+5,5.02,Economics and business,soc:econ,gy,Economics,economics
+5,5.03,Educational sciences,soc:educ,ha,Education & Educational Research,educat & educ res
+5,5.03,Educational sciences,soc:educ,hb,"Education, Scientific Disciplines","educ, scient disc"
+5,5.03,Educational sciences,soc:educ,he,"Education, Special","educat, special"
+6,6.03,"Philosophy, ethics and religion",hum:philos,hf,Ethics,ethics
+5,5.01,Psychology,soc:psychol,hi,"Psychology, Educational","psychol, educat"
+3,3.03,Health sciences,med:health,hl,Health Care Sciences & Services,hlth care sc & ser
+1,1.04,Chemical sciences,sci:chem,hq,Electrochemistry,electrochemistry
+1,1.06,Biological sciences,sci:biol,ht,Evolutionary Biology,evolut biology
+1,1.06,Biological sciences,sci:biol,hy,Developmental Biology,development biol
+3,3.02,Clinical medicine,med:clin,ia,Endocrinology & Metabolism,endocrin & metabol
+2,2.07,Environmental engineering,eng:environ,id,Energy & Fuels,energy & fuels
+2,2.11,Other engineering and technologies,eng:other,if,"Engineering, Multidisciplinary","eng, multidisc"
+2,2.06,Medical engineering,eng:medical,ig,"Engineering, Biomedical","eng, biomedical"
+2,2.07,Environmental engineering,eng:environ,ih,"Engineering, Environmental","eng, environment"
+2,2.04,Chemical engineering,eng:chem,ii,"Engineering, Chemical","eng, chemical"
+2,2.11,Other engineering and technologies,eng:other,ij,"Engineering, Industrial","eng, industrial"
+2,2.11,Other engineering and technologies,eng:other,ik,"Engineering, Manufacturing","eng, manufactur"
+2,2.07,Environmental engineering,eng:environ,il,"Engineering, Marine","eng, marine"
+2,2.01,Civil engineering,eng:civil,im,"Engineering, Civil","eng, civil"
+2,2.07,Environmental engineering,eng:environ,io,"Engineering, Ocean","eng, ocean"
+2,2.07,Environmental engineering,eng:environ,ip,"Engineering, Petroleum","eng, petroleum"
+2,2.02,"Electrical engineering, electronic engineering, information engineering",eng:electr,iq,"Engineering, Electrical & Electronic","eng, elec & electr"
+2,2.03,Mechanical engineering,eng:mechan,iu,"Engineering, Mechanical","eng, mechanic"
+2,2.07,Environmental engineering,eng:environ,ix,"Engineering, Geological","eng, geological"
+1,1.06,Biological sciences,sci:biol,iy,Entomology,entomology
+1,1.05,Earth and related environmental sciences,sci:environ,ja,Environmental Sciences,environmental sc
+5,5.07,Social and economic geography,soc:geogr,jb,Environmental Studies,environ studies
+5,5.01,Psychology,soc:psychol,ji,Ergonomics,ergonomics
+5,5.04,Sociology,soc:sociol,jm,Ethnic Studies,ethnic studies
+5,5.04,Sociology,soc:sociol,jo,Family Studies,family studies
+6,6.04,"Art (arts, history of arts, performing arts, music)",hum:arts,js,"Film, Radio, Television",film radio tele
+4,4.01,"Agriculture, forestry, and fisheries",agr:agro,ju,Fisheries,fisheries
+6,6.02,Languages and literature,hum:language,jw,Folklore,folklore
+4,4.05,Other agricultural sciences,agr:other,jy,Food Science & Technology,food sc & technol
+4,4.01,"Agriculture, forestry, and fisheries",agr:agro,ka,Forestry,forestry
+3,3.02,Clinical medicine,med:clin,ki,Gastroenterology & Hepatology,gastroen & hepatol
+1,1.06,Biological sciences,sci:biol,km,Genetics & Heredity,genetics & heredit
+5,5.07,Social and economic geography,soc:geogr,ku,Geography,geography
+1,1.05,Earth and related environmental sciences,sci:environ,kv,"Geography, Physical","geography, physic"
+1,1.05,Earth and related environmental sciences,sci:environ,ky,Geology,geology
+1,1.05,Earth and related environmental sciences,sci:environ,le,"Geosciences, Multidisciplinary","geosc, multidisc"
+3,3.02,Clinical medicine,med:clin,li,Geriatrics & Gerontology,geriatr & gerontol
+3,3.02,Clinical medicine,med:clin,lj,Gerontology,gerontology
+3,3.03,Health sciences,med:health,lq,Health Policy & Services,hlth pol & serv
+3,3.02,Clinical medicine,med:clin,ma,Hematology,hematology
+1,1.06,Biological sciences,sci:biol,mc,Mathematical & Computational Biology,math & comput biol
+9,9,Unmatched Subject Codes,nnn,ml,Primary Health Care,prim hlth care
+6,6.01,History and archaeology,hum:history,mm,History,history
+6,6.01,History and archaeology,hum:history,mq,History & Philosophy of Science,histo & philos sc
+6,6.01,History and archaeology,hum:history,mr,History Of Social Sciences,history soc sc
+4,4.01,"Agriculture, forestry, and fisheries",agr:agro,mu,Horticulture,horticulture
+5,5.09,Other social sciences,soc:other,mw,"Hospitality, Leisure, Sport & Tourism","hop, leis, spo & to"
+5,5.01,Psychology,soc:psychol,my,"Psychology, Developmental","psychol, develop"
+3,3.03,Health sciences,med:health,ne,"Public, Environmental & Occupational Health","publ, env & occ hlt"
+3,3.01,Basic medicine,med:basic,ni,Immunology,immunology
+5,5.02,Economics and business,soc:econ,nm,Industrial Relations & Labor,industr rel & lab
+3,3.03,Health sciences,med:health,nn,Infectious Diseases,infec disease
+5,5.01,Psychology,soc:psychol,nq,"Psychology, Applied","psychol, appl"
+2,2.01,Civil engineering,eng:civil,ns,Nanoscience & Nanotechnology,nanosc & nanotechn
+5,5.08,Media and communications,soc:commun,nu,Information Science & Library Science,inform sc & libr
+2,2.11,Other engineering and technologies,eng:other,oa,Instruments & Instrumentation,instrum & instrume
+5,5.06,Political Science,soc:politics,oe,International Relations,internatl relat
+3,3.02,Clinical medicine,med:clin,oi,Integrative & Complementary Medicine,integr & compl med
+5,5.05,Law,soc:law,om,Law,law
+3,3.03,Health sciences,med:health,oo,Medical Ethics,medical ethics
+3,3.03,Health sciences,med:health,op,"Medicine, Legal","medicine, legal"
+5,5.09,Other social sciences,soc:other,or,Asian Studies,asian studies
+6,6.02,Languages and literature,hum:language,ot,Linguistics,linguistics
+1,1.06,Biological sciences,sci:biol,ou,Limnology,limnology
+6,6.02,Languages and literature,hum:language,ox,Literary Theory & Criticism,liter theo & crit
+9,9,Unmatched Subject Codes,nnn,oy,Language & Linguistics,languag & linguis
+6,6.02,Languages and literature,hum:language,oz,Literary Reviews,liter reviews
+6,6.02,Languages and literature,hum:language,pa,Literature,literature
+5,5.02,Economics and business,soc:econ,pc,Management,management
+6,6.02,Languages and literature,hum:language,pd,"Literature, African, Australian, Canadian","liter, af au ca"
+5,5.02,Economics and business,soc:econ,pe,Operations Research & Management Science,operat res & mgmt
+6,6.02,Languages and literature,hum:language,pf,"Literature, American","liter, american"
+6,6.02,Languages and literature,hum:language,pg,"Literature, British Isles","liter, brit isl"
+6,6.02,Languages and literature,hum:language,ph,"Literature, German, Dutch, Scandinavian","liter, ge du sc"
+1,1.06,Biological sciences,sci:biol,pi,Marine & Freshwater Biology,marin & freshw bio
+2,2.05,Materials engineering,eng:material,pj,"Materials Science, Paper & Wood","mater sc, paper & w"
+2,2.05,Materials engineering,eng:material,pk,"Materials Science, Ceramics","mater sc, ceram"
+2,2.05,Materials engineering,eng:material,pm,"Materials Science, Multidisciplinary","mater sc, multid"
+1,1.01,Mathematics,sci:mathem,pn,"Mathematics, Applied","math, applied"
+1,1.01,Mathematics,sci:mathem,po,"Mathematics, Interdisciplinary Applications","math, interd app"
+1,1.01,Mathematics,sci:mathem,pq,Mathematics,mathematics
+5,5.04,Sociology,soc:sociol,ps,"Social Sciences, Mathematical Methods","soc sci, math m"
+3,3.03,Health sciences,med:health,pt,Medical Informatics,medical informat
+2,2.03,Mechanical engineering,eng:mechan,pu,Mechanics,mechanics
+2,2.06,Medical engineering,eng:medical,pw,Medical Laboratory Technology,med lab technol
+3,3.02,Clinical medicine,med:clin,py,"Medicine, General & Internal","medicine, gen & int"
+2,2.05,Materials engineering,eng:material,pz,Metallurgy & Metallurgical Engineering,metallur & met eng
+3,3.01,Basic medicine,med:basic,qa,"Medicine, Research & Experimental","medicine, res & exp"
+6,6.02,Languages and literature,hum:language,qc,"Literature, Romance","liter, romance"
+6,6.02,Languages and literature,hum:language,qd,"Literature, Slavic","liter, slavic"
+2,2.09,Industrial Biotechnology,eng:indbiotech,qe,"Materials Science, Biomaterials","mater sc, biomat"
+9,9,Unmatched Subject Codes,nnn,qf,"Materials Science, Characterization & Testing","mater sc, char & t"
+2,2.05,Materials engineering,eng:material,qg,"Materials Science, Coatings & Films","mater sc, coat & fi"
+2,2.05,Materials engineering,eng:material,qh,"Materials Science, Composites","mater sc, compos"
+2,2.05,Materials engineering,eng:material,qj,"Materials Science, Textiles","mater sc, textil"
+6,6.01,History and archaeology,hum:history,qk,Medieval & Renaissance Studies,medv & renais st
+9,9,Unmatched Subject Codes,nnn,ql,Logic,logic
+1,1.05,Earth and related environmental sciences,sci:environ,qq,Meteorology & Atmospheric Sciences,meteor & atmos sc
+1,1.06,Biological sciences,sci:biol,qu,Microbiology,microbiology
+2,2.11,Other engineering and technologies,eng:other,ra,Microscopy,microscopy
+2,2.02,"Electrical engineering, electronic engineering, information engineering",eng:electr,rb,Robotics,robotics
+1,1.05,Earth and related environmental sciences,sci:environ,re,Mineralogy,mineralogy
+1,1.07,Other natural sciences,sci:other,ro,Multidisciplinary Sciences,multidiscipl sc
+6,6.04,"Art (arts, history of arts, performing arts, music)",hum:arts,rp,Music,music
+1,1.06,Biological sciences,sci:biol,rq,Mycology,mycology
+3,3.02,Clinical medicine,med:clin,rt,Clinical Neurology,clin neurology
+3,3.01,Basic medicine,med:basic,ru,Neurosciences,neurosciences
+3,3.02,Clinical medicine,med:clin,rx,Neuroimaging,neuroimaging
+2,2.03,Mechanical engineering,eng:mechan,ry,Nuclear Science & Technology,nucl sc & technol
+3,3.03,Health sciences,med:health,rz,Nursing,nursing
+3,3.03,Health sciences,med:health,sa,Nutrition & Dietetics,nutrition & diet
+3,3.02,Clinical medicine,med:clin,sd,Obstetrics & Gynecology,obstetrics & gynec
+1,1.05,Earth and related environmental sciences,sci:environ,si,Oceanography,oceanography
+2,2.07,Environmental engineering,eng:environ,sr,Remote Sensing,remote sensing
+3,3.02,Clinical medicine,med:clin,su,Ophthalmology,ophthalmology
+1,1.03,Physical sciences,sci:physics,sy,Optics,optics
+1,1.06,Biological sciences,sci:biol,ta,Ornithology,ornithology
+3,3.02,Clinical medicine,med:clin,tc,Orthopedics,orthopedics
+3,3.02,Clinical medicine,med:clin,td,Otorhinolaryngology,otorhinolaryngol
+1,1.05,Earth and related environmental sciences,sci:environ,te,Paleontology,paleontology
+9,9,Unmatched Subject Codes,nnn,ti,Parasitology,parasitology
+3,3.01,Basic medicine,med:basic,tm,Pathology,pathology
+3,3.02,Clinical medicine,med:clin,tq,Pediatrics,pediatrics
+3,3.01,Basic medicine,med:basic,tu,Pharmacology & Pharmacy,pharmacol & pharma
+6,6.03,"Philosophy, ethics and religion",hum:philos,ua,Philosophy,philosophy
+1,1.03,Physical sciences,sci:physics,ub,"Physics, Applied","physics, applied"
+2,2.11,Other engineering and technologies,eng:other,ue,Imaging Science & Photographic Technology,imag sc & photo t
+1,1.03,Physical sciences,sci:physics,uf,"Physics, Fluids & Plasmas","physics, fluid & pl"
+1,1.03,Physical sciences,sci:physics,uh,"Physics, Atomic, Molecular & Chemical","physics, at, mo & ch"
+1,1.03,Physical sciences,sci:physics,ui,"Physics, Multidisciplinary","physics, multidis"
+1,1.03,Physical sciences,sci:physics,uk,"Physics, Condensed Matter","physics, cond mat"
+3,3.01,Basic medicine,med:basic,um,Physiology,physiology
+1,1.03,Physical sciences,sci:physics,un,"Physics, Nuclear","physics, nuclear"
+1,1.03,Physical sciences,sci:physics,up,"Physics, Particles & Fields","physics, part & fie"
+5,5.07,Social and economic geography,soc:geogr,uq,Planning & Development,planning & devel
+1,1.01,Mathematics,sci:mathem,ur,"Physics, Mathematical","physics, mathemat"
+6,6.02,Languages and literature,hum:language,ut,Poetry,poetry
+5,5.06,Political Science,soc:politics,uu,Political Science,political sc
+1,1.04,Chemical sciences,sci:chem,uy,Polymer Science,polymer science
+3,3.02,Clinical medicine,med:clin,ve,Psychiatry,psychiatry
+5,5.01,Psychology,soc:psychol,vi,Psychology,psychol
+5,5.01,Psychology,soc:psychol,vj,"Psychology, Multidisciplinary","psychol, multid"
+5,5.06,Political Science,soc:politics,vm,Public Administration,public admin
+3,3.03,Health sciences,med:health,vp,"Psychology, Psychoanalysis","psychol, ps anal"
+5,5.01,Psychology,soc:psychol,vs,"Psychology, Mathematical","psychol, mathema"
+5,5.01,Psychology,soc:psychol,vx,"Psychology, Experimental","psychol, exper"
+3,3.02,Clinical medicine,med:clin,vy,"Radiology, Nuclear Medicine & Medical Imaging","rad, nucl med im"
+3,3.03,Health sciences,med:health,wc,Rehabilitation,rehabilitation
+3,3.02,Clinical medicine,med:clin,we,Respiratory System,respiratory syst
+1,1.06,Biological sciences,sci:biol,wf,Reproductive Biology,reproduct biol
+3,3.02,Clinical medicine,med:clin,wh,Rheumatology,rheumatology
+5,5.04,Sociology,soc:sociol,wm,Social Issues,social issues
+5,5.01,Psychology,soc:psychol,wq,"Psychology, Social","psychol, social"
+5,5.04,Sociology,soc:sociol,wu,"Social Sciences, Interdisciplinary","soc sc, interdis"
+3,3.03,Health sciences,med:health,wv,"Social Sciences, Biomedical","soc sc, biomedic"
+5,5.04,Sociology,soc:sociol,wy,Social Work,social work
+5,5.04,Sociology,soc:sociol,xa,Sociology,sociology
+4,4.01,"Agriculture, forestry, and fisheries",agr:agro,xe,Soil Science,soil science
+2,2.11,Other engineering and technologies,eng:other,xq,Spectroscopy,spectroscopy
+3,3.03,Health sciences,med:health,xw,Sport Sciences,sport sciences
+1,1.01,Mathematics,sci:mathem,xy,Statistics & Probability,statistics & proba
+3,3.02,Clinical medicine,med:clin,ya,Surgery,surgery
+2,2.02,"Electrical engineering, electronic engineering, information engineering",eng:electr,ye,Telecommunications,telecommunicatio
+6,6.04,"Art (arts, history of arts, performing arts, music)",hum:arts,yg,Theater,theater
+6,6.03,"Philosophy, ethics and religion",hum:philos,yi,Religion,religion
+3,3.01,Basic medicine,med:basic,yo,Toxicology,toxicology
+3,3.02,Clinical medicine,med:clin,yp,Transplantation,transplantation
+5,5.07,Social and economic geography,soc:geogr,yq,Transportation,transportation
+2,2.01,Civil engineering,eng:civil,yr,Transportation Science & Technology,transport sc & t
+3,3.03,Health sciences,med:health,yu,Tropical Medicine,tropical medicin
+5,5.07,Social and economic geography,soc:geogr,yy,Urban Studies,urban studies
+3,3.02,Clinical medicine,med:clin,za,Urology & Nephrology,urology & nephrol
+4,4.03,Veterinary science,agr:veter,zc,Veterinary Sciences,veterinary sc
+9,9,Unmatched Subject Codes,nnn,zd,Peripheral Vascular Disease,periphl vasc dis
+1,1.06,Biological sciences,sci:biol,ze,Virology,virology
+9,9,Unmatched Subject Codes,nnn,zk,Women's Studies,womens studies
+1,1.06,Biological sciences,sci:biol,zm,Zoology,zoology
+2,2.07,Environmental engineering,eng:environ,zq,Mining & Mineral Processing,mining & miner pr
+1,1.05,Earth and related environmental sciences,sci:environ,zr,Water Resources,water resources
