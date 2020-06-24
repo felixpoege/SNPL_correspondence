@@ -1,4 +1,4 @@
-# Science area - technology class correspondences
+# Web of Science subject area - technology class correspondences
 Correspondence between Web of Science subject areas and various patent technology classes, based on scientific non-patent literature citations in patents. This is a probabilistic crosswalk, based on empirical data.
 
 Currently, CPC class and subclass [1] as well as area34 [2] and their correspondence to Web of Science subject codes as well as OECD fields of science [3] are considered. If extensions are required, please add an issue in this repository.
